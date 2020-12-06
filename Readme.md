@@ -4,8 +4,8 @@ Sistemas de tarefas (to do) para programa Novos talentos, siga Passo a Passo de 
 
 2º Passo: Realize o download/clone do projeto e acesse a pasta do backend, nesta pasta abra o aquivo knexfile.js e altere as informações de acesso conforme você utilize na sua máquina
 
-OBS: foi utilizado o banco mysql no desenvolvimento da aplicação, caso você utilize outro banco de dados, você deverá insta-lar a 
-dependecia com o comando:
+OBS: foi utilizado o banco mysql no desenvolvimento da aplicação, caso você utilize outro banco de dados, deverá instalar a 
+dependêcia com o comando:
 
 npm install nome_do_banco
 ex: npm install pg // para Postgresql

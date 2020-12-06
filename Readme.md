@@ -44,4 +44,5 @@ npm i
 npm run serve
 
 Obs:
-O sistema possui usuário, porém, a conexão dos usuários com as tarefas só ocorre no Back end. 
+1. O sistema possui usuário, porém, a conexão dos usuários com as tarefas só ocorre no Back end. 
+2. Não houve a aplicação de testes na aplicação e automatizar do processo de deploy do sistema.
